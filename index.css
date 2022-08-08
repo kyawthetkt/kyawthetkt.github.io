@@ -7,6 +7,7 @@
     height: auto;
     background-color: #FFFFFF;
 }
+
 .header {
     min-height: 30px;
     height: auto;
@@ -19,4 +20,24 @@
     text-align: center;
     font-size: 1.4rem;
     color: #FAFAFA;
+}
+
+.content {
+    min-height: 420px;
+    height: auto;
+    padding: 15px;
+    background-color: #FFFFFF;
+    text-align: center;
+
+}
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.content .occupation-desc {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #333333;
 }
