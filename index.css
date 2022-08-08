@@ -11,12 +11,12 @@
     min-height: 30px;
     height: auto;
     padding: 15px;
-    background-color: #F0F0F0;
+    background-color: #333333;
 
 }
 
 .header .name-desc {
     text-align: center;
     font-size: 1.4rem;
-    color: #333333;
+    color: #FAFAFA;
 }
