@@ -1,0 +1,22 @@
+*, html {
+    margin: 0;
+    padding: 0;
+}
+
+.kt-container {
+    height: auto;
+    background-color: #FFFFFF;
+}
+.header {
+    min-height: 30px;
+    height: auto;
+    padding: 15px;
+    background-color: #F0F0F0;
+
+}
+
+.header .name-desc {
+    text-align: center;
+    font-size: 1.4rem;
+    color: #333333;
+}
